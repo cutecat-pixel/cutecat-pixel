@@ -20,6 +20,6 @@
 ![Visual Code](https://camo.githubusercontent.com/beb69a459b1b9a3a29ced370c5a4b7d80c2213c03b1d2ac3596bb69632ced295/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d7768697465)
 ![Jetbrains](https://img.shields.io/badge/JetBrains-696969?style=flat-square&logo=jetbrains&logoColor=fff)
 ###### 常用系统
-![Windows11](https://img.shields.io/badge/Windows11-0078d7?style=flat-square&logo=windows&logoColor=fff)
+[![Windows11](https://img.shields.io/badge/Windows11-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
 
