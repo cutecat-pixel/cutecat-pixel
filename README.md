@@ -4,7 +4,7 @@
 ~~`ctrl + c/v`~~   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cutecat-pixel&show_icons=true&icon_color=FFA500&text_color=FFFAFA&bg_color=87CEEB&hide_title=true" />
 ###### 在学  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
+[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)](https://docs.microsoft.com/zh-CN/cpp/c-language/?view=msvc-170)
 [![Python](https://camo.githubusercontent.com/7c47c0d734cdcb66a9b86d4abed131865b3a90d920fb9c1d915210e89081eb73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465)](https://www.python.org/)
 [![CPP](https://camo.githubusercontent.com/7e4218eaf40d0a6c3dac036a1d9fcac42141b02fe8e5b9f9fe5986b62850ccb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d43253242253242266c6f676f436f6c6f723d7768697465)](https://cplusplus.com/)
 [![Csharp](https://img.shields.io/badge/Csharp-0000CD?style=flat-square&logo=csharp&logoColor=fff)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
