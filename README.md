@@ -2,7 +2,7 @@
 本人大学在读废猫一只,外号二喵  
 编程一般面向`github`  
 ~~`ctrl + c/v`~~   
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cutecat-pixel&show_icons=true&icon_color=FFA500&text_color=FFFAFA&bg_color=87CEEB&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cutecat-pixel&show_icons=true&icon_color=FFA500&text_color=FFFAFA&bg_color=708090&hide_title=false" />
 ###### 在学  
 [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)](https://docs.microsoft.com/zh-CN/cpp/c-language/?view=msvc-170)
 [![Python](https://camo.githubusercontent.com/7c47c0d734cdcb66a9b86d4abed131865b3a90d920fb9c1d915210e89081eb73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465)](https://www.python.org/)
