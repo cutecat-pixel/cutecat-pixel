@@ -1,6 +1,8 @@
 ### Nice to meet you~  
 本人大学在读废猫一只,外号二喵  
-编程一般面向`github`,`ctrl + c/v`  
+编程一般面向`github`  
+`ctrl + c/v`  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cutecat-pixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 ###### 在学  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
 ![Python](https://camo.githubusercontent.com/7c47c0d734cdcb66a9b86d4abed131865b3a90d920fb9c1d915210e89081eb73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465)
@@ -18,4 +20,4 @@
 ###### 常用系统
 ![Windows11](https://img.shields.io/badge/Windows11-0078d7?style=flat-square&logo=windows&logoColor=fff)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cutecat-pixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
