@@ -1,7 +1,7 @@
 ### Nice to meet you~  
 本人大学在读废猫一只,外号二喵  
 编程一般面向`github`  
-           `ctrl + c/v`  
+~~`ctrl + c/v`~~   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cutecat-pixel&show_icons=true&icon_color=FFA500&text_color=FFFAFA&bg_color=87CEEB&hide_title=true" />
 ###### 在学  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
