@@ -22,7 +22,7 @@
 ###### 常用系统
 [![Windows11](https://img.shields.io/badge/Windows11-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)
 [![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)](https://www.centos.org/)  
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-262577?style=flat-square&logo=Ubuntu&logoColor=orange)]([https://www.centos.org/](https://cn.ubuntu.com/))  
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-262577?style=flat-square&logo=Ubuntu&logoColor=orange)](https://cn.ubuntu.com/)  
 ###### QQ
 [![QQ](https://img.shields.io/badge/QQ-2971504919-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=2971504919&site=qq&menu=yes)
 
