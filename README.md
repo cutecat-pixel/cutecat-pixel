@@ -4,10 +4,10 @@
 ~~`ctrl + c/v`~~   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cutecat-pixel&show_icons=true&icon_color=FFA500&text_color=FFFAFA&bg_color=708090&hide_title=false&title_color=FFFAFA" />
 ###### 在学  
-[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)]
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 [![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
-[![Csharp](https://img.shields.io/badge/Csharp-0000CD?style=flat-square&logo=csharp&logoColor=fff)]
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
