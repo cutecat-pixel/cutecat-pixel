@@ -1,4 +1,8 @@
 ### Nice to meet you~  
+<a href="#">
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=cutecat-pixel&theme=nord">
+</a>
+
 本人废猫一只,外号二喵  
 编程一般面向`github`  
 ~~`ctrl + c/v`~~   
