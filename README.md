@@ -22,7 +22,7 @@
 [![Jetbrains](https://img.shields.io/badge/JetBrains-696969?style=flat-square&logo=jetbrains&logoColor=fff)]
 ###### 常用系统
 [![Windows11](https://img.shields.io/badge/Windows11-0078d7?style=flat-square&logo=windows&logoColor=fff)]
-[![Arch](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=Arch&logoColor=white)] 
+[![Arch]([https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=Arch&logoColor=white](https://img.shields.io/archlinux/v/core/x86_64/pacman?logo=%231793D1))] 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-262577?style=flat-square&logo=Ubuntu&logoColor=orange)]
 ###### QQ
 [![QQ](https://img.shields.io/badge/QQ-2971504919-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=2971504919&site=qq&menu=yes)
